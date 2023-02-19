@@ -8,3 +8,5 @@
 /FigureTest/bin/Debug/net5.0
 /FigureTest/obj
 /obj
+/.vs
+/FigureTest/bin/Release/net5.0
