@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="FigureLibrary\**" />
+    <Compile Remove="FigureTest\**" />
+    <EmbeddedResource Remove="FigureLibrary\**" />
+    <EmbeddedResource Remove="FigureTest\**" />
+    <None Remove="FigureLibrary\**" />
+    <None Remove="FigureTest\**" />
+  </ItemGroup>
+
+</Project>

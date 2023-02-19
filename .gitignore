@@ -3,3 +3,8 @@
 ################################################################################
 
 /.vs/ConsoleApp4/v17
+/FigureLibrary/bin/Debug/net5.0
+/FigureLibrary/obj
+/FigureTest/bin/Debug/net5.0
+/FigureTest/obj
+/obj
